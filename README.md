@@ -46,7 +46,9 @@ Experiments and applications involving machine learning algorithms.
 
 ## 📊 GitHub Stats
 
-_Add your personalized statistics here._
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahad-Al-Hasan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Al-Hasan&layout=compact&theme=tokyonight)
 
 ---
 
